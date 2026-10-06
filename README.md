@@ -23,6 +23,26 @@ My repositories are a collection of experiments, coursework, and practical proje
 - **Interests:** interpreters, parsers, algorithms, data structures, game development, security, and systems programming
 - **Approach:** understand the fundamentals, build something useful, then keep improving it
 
+## 🛠️ Languages & tools
+
+<p align="left">
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="48" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" />
+  </a>
+</p>
+
 ## 📌 What I’m exploring
 
 - Building reliable software from first principles
