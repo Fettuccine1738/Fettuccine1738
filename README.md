@@ -4,6 +4,14 @@ I’m a software developer who enjoys learning by building — from language too
 
 My repositories are a collection of experiments, coursework, and practical projects focused on understanding how software works from the ground up.
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 ## 🚀 Featured projects
 
 | Project | What it is | Tech |
@@ -22,26 +30,6 @@ My repositories are a collection of experiments, coursework, and practical proje
 - **Languages:** Rust, Java, HTML
 - **Interests:** interpreters, parsers, algorithms, data structures, game development, security, and systems programming
 - **Approach:** understand the fundamentals, build something useful, then keep improving it
-
-## 🛠️ Languages & tools
-
-<p align="left">
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="48" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="48" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" />
-  </a>
-</p>
 
 ## 📌 What I’m exploring
 
